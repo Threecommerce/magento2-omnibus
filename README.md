@@ -4,7 +4,7 @@ When a product is on sale, shows the **lowest price of the previous 30 days** un
 
 ![The lowest previous price under the discounted price on a Hyvä product page](images/omnibus-product-page.png)
 
-**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4 – 2.4.9 · Mage-OS 1.x / 3.x · PHP 8.1 – 8.4 · Luma/Blank and Hyvä themes
+**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4 – 2.4.9 · Mage-OS 1.x / 3.x · PHP 8.1 – 8.5 · Luma/Blank and Hyvä themes
 **License:** commercial · coming soon
 
 ## Features
@@ -25,7 +25,7 @@ When a product is on sale, shows the **lowest price of the previous 30 days** un
 ## Requirements
 
 - Magento Open Source / Adobe Commerce 2.4.4+ or Mage-OS
-- PHP 8.1 – 8.4
+- PHP 8.1 – 8.5
 - Package: `threecommerce/m2-base`
 - Magento cron running on the server, price indexers up to date
 
